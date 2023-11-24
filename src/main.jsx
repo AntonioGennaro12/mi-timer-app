@@ -1,10 +1,21 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './index.css'
-import Timer from './App'
+import App from './App'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Timer />
+    <App />
+    <App />
+    <App />
+    <App />
+    <App />
+    <App />
+    <App />
+    <App />
+    <App />
+    <App />
+    <App />
+    <App />
   </React.StrictMode>,
 )
